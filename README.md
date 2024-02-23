@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,MATLAB" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,PIC Microcontroller,vscode,proteus,autoCAD" />
+    <img src="https://skillicons.dev/icons?i=python,c,matlab,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=pandas,opencv,arduino,,vscode,proteus,autoCAD" />
 </div>
 
 <br/>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
 </h3>
 
 <br/>
