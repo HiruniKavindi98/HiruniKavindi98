@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,matlab,photoshop" /><br>
-    <img src="https://skillicons.dev/icons?i=pandas,opencv,arduino,,vscode,proteus,autocad" />
+    <img src="https://skillicons.dev/icons?i=pandas,opencv,arduino,vscode,pytorch,autocad" />
 </div>
 
 <br/>
